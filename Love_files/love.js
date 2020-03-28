@@ -196,7 +196,7 @@
     Footer.prototype = {
         draw: function() {
             var ctx = this.tree.ctx, point = this.point;
-            var len = this.length / 2;
+            var len = this.length / 1.5;
 
             ctx.save();
             ctx.strokeStyle = 'rgb(35, 31, 32)';
@@ -529,5 +529,4 @@
     window.bezier = bezier;
     window.Point = Point;
     window.Tree = Tree;
-
 })(window);

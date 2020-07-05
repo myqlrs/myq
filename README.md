@@ -1,2 +1,2 @@
 # myqlrs.github.io
-131452o.me
+http://131452o.me/

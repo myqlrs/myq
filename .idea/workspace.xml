@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28c41db4-06a5-4ca5-a3f1-7e7ac15805b7" name="Default Changelist" comment="孟赟强">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Love_files/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/Love_files/default.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Love_files/love.js" beforeDir="false" afterPath="$PROJECT_DIR$/Love_files/love.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +23,6 @@
   <component name="ProjectId" id="1ZhfGHvlBgak3s4c0bDdCVno2AL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -129,6 +125,7 @@
       <workItem from="1585309270137" duration="10485000" />
       <workItem from="1585323944569" duration="410000" />
       <workItem from="1585358931803" duration="787000" />
+      <workItem from="1595075671135" duration="336000" />
     </task>
     <task id="LOCAL-00001" summary="孟赟强">
       <created>1585296344550</created>
@@ -183,7 +180,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="孟赟强" />
@@ -270,17 +267,5 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="178" y="42" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1585324272361" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/index.html</url>
-          <line>76</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
